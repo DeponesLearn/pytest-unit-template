@@ -17,11 +17,9 @@ dependencies = [
     "pytest>=9.0.0",
 ]
 [project.urls]
-Homepage = "https://example.com"
-Documentation = "https://readthedocs.org"
-Repository = "https://github.com/me/spam.git"
-Issues = "https://github.com/me/spam/issues"
-Changelog = "https://github.com/me/spam/blob/master/CHANGELOG.md"
+Homepage = "https://github.com/DeponesLearn/pytest-unit-template"
+Repository = "https://github.com/DeponesLearn/pytest-unit-template.git"
+Issues = "https://github.com/DeponesLearn/pytest-unit-template/issues"
 
 [tool.setuptools]
 platforms = ["Linux", "Windows"]
