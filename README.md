@@ -1,4 +1,4 @@
-# Unit-PyTest Project Template
+# Unit-Test Project Template
 
 A clean template configured for Python development and automated testing using VS Code and pytest.
 
