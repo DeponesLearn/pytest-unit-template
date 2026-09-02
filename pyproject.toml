@@ -1,5 +1,5 @@
 [build-system]
-requires = ["setuptools>=61.0", "wheel>=0.37.1"]
+requires = ["setuptools>=77.0.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
@@ -8,7 +8,7 @@ version = "1.0.0"
 description = "pytest Unit-Test Template."
 readme = {file = "README.txt", content-type = "text/markdown"}
 requires-python = ">=3.9"
-license = {file = "LICENCE"}
+license = {file = "LICENSE"}
 authors = [
   {name = "Berk Acunas", email = "info@deponessoft.com"}
 ]
